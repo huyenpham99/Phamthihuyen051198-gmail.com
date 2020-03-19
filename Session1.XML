@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?> <!--khai báo tài liệu-->
+
+<Student>
+    <name>Nguyễn Văn Quyết</name>
+    <age>18</age>
+    <address>Hà Nội, Việt Nam</address>
+    <telephone>09888888</telephone>
+</Student>
